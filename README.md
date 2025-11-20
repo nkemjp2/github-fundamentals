@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub
+# :wave: The Basics of GitHub for Nkem
 
 - Read through the below content so you can understand some commonly used terms and uses of GitHub
 - Complete all the [tasks](#tasks)
